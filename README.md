@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @LUNSO
-- 👀 I’m interested in Coding and Jailbreaking
-- 🌱 I’m currently learning Jailbreaking
-- 💞️ I’m looking to collaborate on Nothing right now
-- 📫 How to reach me Not set up Yet.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have unblocked Many school computers but
-- Haven't unblock a school Ipad yet.
+LUNSO Is an operaion to unblock Shcool Devices And Docment
+it on Github.
+
+
+Why are We doing this?
+We are doing this to make school life more barble and help the Spread of the powerhugry
+nature
+
+
+
+
 
 Join date 8/5/2024
